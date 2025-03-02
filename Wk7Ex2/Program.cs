@@ -8,7 +8,7 @@ namespace Wk7Ex2
 {
     internal class Program
     {
-        //create class for book
+        //create class for shape
         public class Shape
         {
             //method to calculate area
